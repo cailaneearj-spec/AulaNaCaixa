@@ -72,3 +72,14 @@ footer {
     max-width: 280px;
     margin-bottom: 15px;
 }
+
+.btn-instagram {
+    display: inline-block;
+    margin-top: 15px;
+    background: #E1306C;
+    color: white;
+    padding: 10px 18px;
+    border-radius: 20px;
+    text-decoration: none;
+    font-weight: bold;
+}
