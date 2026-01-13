@@ -72,8 +72,8 @@ footer {
     max-width: 280px;
     margin-bottom: 3px;
 
-    /* sombra rosada harmônica */
-    filter: drop-shadow(0 8px 18px rgba(216, 27, 96, 0.35));
+    /* sombra rosada um pouco mais escura */
+    filter: drop-shadow(0 10px 22px rgba(176, 0, 64, 0.45));
 }
 
 .btn-instagram {
